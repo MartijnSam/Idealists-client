@@ -131,8 +131,6 @@ Despite challenges we had a lot of fun working on this project and we managed to
 ---
 ## Pull Requests
 [Martijn's Pull Requests](https://github.com/dashakrolik/Idealists-client/pulls?q=is%3Apr+is%3Aclosed+author%3AMartijnSam)
-
-https://github.com/dashakrolik/Idealists-client/pulls?q=is%3Apr+is%3Aclosed+author%3AMartijnSam
 ---
 
 ## Features
