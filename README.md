@@ -16,16 +16,16 @@
 
    - [Client:](#client-)
    - [Server:](#server-)
-
-6. [Features](#features)
+6. [Martijn's Pull Requests](#pull-requests)
+7. [Features](#features)
 
    - [User login](#user-login)
    - [Investor login](#investor-login)
    - [Admin login](#admin-login)
    - [Specialist login](#specialist-login)
 
-7. [Future Features](#future-features)
-8. [Available Scripts](#available-scripts)
+8. [Future Features](#future-features)
+9. [Available Scripts](#available-scripts)
 
 ---
 
@@ -129,6 +129,11 @@ Despite challenges we had a lot of fun working on this project and we managed to
 #### See the server repository here: [LINK TO YOUR OWN SERVER REPO README]
 
 ---
+## Pull Requests
+[Martijn's Pull Requests](https://github.com/dashakrolik/Idealists-client/pulls?q=is%3Apr+is%3Aclosed+author%3AMartijnSam)
+
+https://github.com/dashakrolik/Idealists-client/pulls?q=is%3Apr+is%3Aclosed+author%3AMartijnSam
+---
 
 ## Features
 
@@ -138,28 +143,28 @@ Despite challenges we had a lot of fun working on this project and we managed to
 
 - User dashboard
 - Submit a new idea
-- [Display Idea stage progress bar](https://github.com/dashakrolik/Idealists-client/pull/79)
+- Display Idea stage progress bar
   - Patent check
   - Comment on your patent results
   - Assess other ideas
-  - [Forgot password feature](https://github.com/dashakrolik/Idealists-client/pull/127)
+  - Forgot password feature
 
 2. ### Investor login
 
-- [Investor dashboard](https://github.com/dashakrolik/Idealists-client/pull/97)
-- [Dynamically filter ideas on industry](https://github.com/dashakrolik/Idealists-client/pull/94)
-- [Sort ideas by relevance to investor’s industry](https://github.com/dashakrolik/Idealists-client/pull/95)
+- Investor dashboard
+- Dynamically filter ideas on industry
+- Sort ideas by relevance to investor’s industry
 - Assess ideas
-- [Calculate assessment weight according to industry](https://github.com/dashakrolik/Idealists-client/pull/102)
+- Calculate assessment weight according to industry
 - Investor comments on relevant ideas
 
 3. ### Admin login
 
 - Admin dashboard
-- Add a new specialist
-- See rejected ideas
-- Undo rejection
-- See idea details
+- [Add a new specialist](https://github.com/dashakrolik/Idealists-client/pull/82)
+- [See rejected ideas](https://github.com/dashakrolik/Idealists-client/pull/114)
+- [Undo rejection](https://github.com/dashakrolik/Idealists-client/pull/116)
+- [See idea details](https://github.com/dashakrolik/Idealists-client/pull/135)
 - Reject an idea
 - Move an idea to the next phase
 
@@ -167,13 +172,13 @@ Despite challenges we had a lot of fun working on this project and we managed to
 
 - Specialist dashboard
 - See ideas in specialist’s relevant phase
-- See idea details
-- Reject an idea
+- [See idea details](https://github.com/dashakrolik/Idealists-client/pull/135)
+- [Reject an idea](https://github.com/dashakrolik/Idealists-client/pull/116)
 - Move an idea to the next phase
-- See assessments
-- See and add comments
+- [See assessments](https://github.com/dashakrolik/Idealists-client/pull/100)
+- [See and add comments](https://github.com/dashakrolik/Idealists-client/pull/98)
 - Upload files
-- Download PDFs
+- [Download PDFs](https://github.com/dashakrolik/Idealists-client/pull/92)
 
 ---
 
